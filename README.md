@@ -4,7 +4,7 @@ Program that reads a file containing a sorted list of words (one word per line, 
 ## Usage
 -Build a program:
 
-``git clone https://github.com/poprygun/longestword.git longestword
+``git clone https://github.com/poprygun/longestword.git longestword``
 
 ``cd longestword``
 
